@@ -1,6 +1,6 @@
-【版本名】胡萝卜周
-【版本】1.2
+【版本名】1.2【版本名】
+【版本】2【版本】
 【内容】
 1.修复不能在线检测更新
 【内容】
-【链接】https://github.com/flymebug/bug/blob/master/com.flymebug.huluobozhou.apk
+【链接】https://github.com/flymebug/bug/blob/master/com.flymebug.huluobozhou.apk【链接】
