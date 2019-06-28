@@ -1,5 +1,5 @@
 【版本名】1.3【版本名】
 【版本】4【版本】
-【内容】1.新增在线检测更新</td>
+【内容】1.新增在线检测更新"</td>"
 2.修复了app在加载某些网页出错后闪退的问题【内容】
 【链接】https://raw.githubusercontent.com/flymebug/bug/master/com.flymebug.huluobozhou.apk【链接】
